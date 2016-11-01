@@ -2,6 +2,9 @@ kit:
   name: PetClinic
   link: https://github.com/qubell-bazaar/component-petclinic-docker
   applications:
+    - name: "Docker Service"
+      manifest: https://raw.github.com/qubell-bazaar/docker/master/docker.yml
+      service: "true"
     - name: "PetClinic on Docker"
       manifest: https://raw.github.com/qubell-bazaar/component-petclinic-docker/master/petclinic.yml
       service: "true"
