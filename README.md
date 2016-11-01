@@ -6,4 +6,4 @@ This Starter Kit provides the basic building blocks for deploying, updating and 
 
 Pre-requisites
 --------------
- - [Docker Service](https://github.com/qubell-bazaar/docker) must be configured in a chosen environment
+ - [Docker Service](https://github.com/crazzysun/docker) must be configured in a chosen environment
