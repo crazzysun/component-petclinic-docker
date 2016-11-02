@@ -7,7 +7,6 @@ kit:
       service: "true"
     - name: "PetClinic on Docker"
       manifest: https://raw.github.com/qubell-bazaar/component-petclinic-docker/master/petclinic.yml
-      service: "true"
     - name: "Web application builder on Docker"
       manifest: https://raw.github.com/qubell-bazaar/component-war-docker/master/war.yml
     - name: "MySQL Server on Docker"
